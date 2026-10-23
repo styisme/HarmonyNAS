@@ -1,0 +1,8 @@
+{
+  "modelVersion": "5.0.0",
+  "description": "HarmonyNAS Client - 多设备自适应 NAS 客户端",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hvigor-ohos-plugin": "5.0.0"
+  }
+}

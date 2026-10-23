@@ -1,0 +1,18 @@
+{
+  "enabled": false,
+  "provider": "local",
+  "refreshIntervalSec": 300,
+  "slots": [
+    {
+      "id": "banner-001",
+      "slot": "fileListBottom",
+      "type": "image",
+      "title": "升级 NAS Pro",
+      "desc": "限时 5 折",
+      "imageUrl": "/ads/banner_pro.png",
+      "targetUrl": "https://example.com/pro",
+      "weight": 3,
+      "enabled": true
+    }
+  ]
+}

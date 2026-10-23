@@ -1,0 +1,8 @@
+{
+  "modelVersion": "5.0.0",
+  "description": "HarmonyNAS - 鸿蒙原生 NAS 服务端",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hvigor-ohos-plugin": "5.0.0"
+  }
+}

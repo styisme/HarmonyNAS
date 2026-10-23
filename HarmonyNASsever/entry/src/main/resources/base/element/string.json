@@ -1,0 +1,8 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "HarmonyNAS entry module" },
+    { "name": "EntryAbility_desc", "value": "NAS 服务主入口" },
+    { "name": "EntryAbility_label", "value": "HarmonyNAS" },
+    { "name": "keep_running_reason", "value": "NAS 文件传输服务需要后台常驻" }
+  ]
+}

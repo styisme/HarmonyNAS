@@ -1,0 +1,10 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "HarmonyNAS 客户端" },
+    { "name": "EntryAbility_desc", "value": "HarmonyNAS 客户端主入口" },
+    { "name": "EntryAbility_label", "value": "HarmonyNAS" },
+    { "name": "read_media_reason", "value": "需要读取相册照片用于 NAS 备份" },
+    { "name": "write_media_reason", "value": "需要保存 NAS 文件到相册" },
+    { "name": "distributed_reason", "value": "跨端剪贴板同步需要分布式数据权限" }
+  ]
+}
